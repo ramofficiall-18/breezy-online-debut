@@ -1,30 +1,6 @@
-import { Code, Palette, Rocket, Users } from "lucide-react";
 import { Card } from "@/components/ui/card";
 
 const About = () => {
-  const features = [
-    {
-      icon: Code,
-      title: "Clean Code",
-      description: "Writing maintainable, scalable code with best practices and modern patterns."
-    },
-    {
-      icon: Palette,
-      title: "Design Focus",
-      description: "Creating beautiful, intuitive interfaces that provide exceptional user experiences."
-    },
-    {
-      icon: Rocket,
-      title: "Performance",
-      description: "Optimizing applications for speed, accessibility, and seamless functionality."
-    },
-    {
-      icon: Users,
-      title: "Collaboration",
-      description: "Working effectively with teams to deliver projects on time and exceed expectations."
-    }
-  ];
-
   return (
     <section id="about" className="py-20 px-6">
       <div className="max-w-6xl mx-auto">
@@ -35,26 +11,6 @@ const About = () => {
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
             Hi, I'm Ramkumar.S, a passionate and detail-oriented Computer Science and Engineering graduate with a strong foundation in technical skills and a keen interest in front-end development and IT support.
           </p>
-        </div>
-
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mb-16">
-          {features.map((feature, index) => (
-            <Card 
-              key={feature.title}
-              className="p-6 card-gradient border-border/20 hover:border-primary/30 transition-all hover-scale group"
-              style={{
-                animationDelay: `${index * 0.1}s`
-              }}
-            >
-              <div className="text-center">
-                <div className="inline-flex p-3 rounded-full bg-primary/20 mb-4 group-hover:bg-primary/30 transition-colors">
-                  <feature.icon className="w-6 h-6 text-primary" />
-                </div>
-                <h3 className="text-lg font-semibold mb-2">{feature.title}</h3>
-                <p className="text-sm text-muted-foreground">{feature.description}</p>
-              </div>
-            </Card>
-          ))}
         </div>
 
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
