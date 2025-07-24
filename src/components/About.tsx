@@ -33,9 +33,7 @@ const About = () => {
             About Me
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-            I'm a passionate developer who loves creating digital experiences that combine 
-            beautiful design with powerful functionality. With expertise in modern web technologies, 
-            I bring ideas to life through clean code and innovative solutions.
+            I recently completed my Bachelor's degree in Computer Science and Engineering from Krishnaswamy College of Engineering and Technology, Cuddalore. I aim to acquire expertise as a front-end developer and I want to join a career in the IT field Jobs. To enhance my skills, I underwent inplant training at the Telephone Exchange, Cuddalore. Furthermore, I presented a research paper titled "Defensive Strategy Against Ransomware Threats" at the 5th International Conference on Veracity Research in Scientific Computing and Engineering Trends, organized by VRS College of Engineering and Technology, Arasur. Notably, our team's project proposal was selected and funded under the Tamil Nadu State Council for Science and Technology's Student Project Scheme (2023-2024) at DOTE Campus, Chennai.
           </p>
         </div>
 
