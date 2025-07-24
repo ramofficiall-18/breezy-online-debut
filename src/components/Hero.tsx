@@ -61,7 +61,9 @@ const Hero = () => {
               <Github className="w-6 h-6" />
             </a>
             <a 
-              href="#" 
+              href="https://www.linkedin.com/in/ramkumars1218/" 
+              target="_blank"
+              rel="noopener noreferrer"
               className="p-3 rounded-full bg-card/20 backdrop-blur-sm hover:bg-card/40 transition-all hover-scale"
               aria-label="LinkedIn"
             >
