@@ -33,7 +33,7 @@ const About = () => {
             About Me
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-            Hi, I'm Ramkumar.S, a passionate and detail-oriented Computer Science and Engineering graduate with a strong foundation in technical skills and a keen interest in front-end development and IT support. My Journey. With a recent completion of my Bachelor's degree from Krishnaswamy College of Engineering and Technology, Cuddalore, I've been actively pursuing opportunities to enhance my skills and knowledge in the field of computer science. My experience as a Junior Presentation Specialist at MyBusiness Visual Company has equipped me with effective communication and collaboration skills. I'm excited to explore new opportunities and collaborate with like-minded individuals. Feel free to reach out to me through my contact information below.
+            Hi, I'm Ramkumar.S, a passionate and detail-oriented Computer Science and Engineering graduate with a strong foundation in technical skills and a keen interest in front-end development and IT support.
           </p>
         </div>
 
