@@ -28,7 +28,7 @@ const Hero = () => {
             Frontend Developer
           </h1>
           <p className="text-xl md:text-2xl text-muted-foreground mb-8 max-w-2xl mx-auto leading-relaxed">
-            Crafting beautiful digital experiences with modern web technologies and innovative design
+            This is my portfolio site to utilize my skills and also I make contribution to the success of the company.
           </p>
           
           {/* CTA Buttons */}
