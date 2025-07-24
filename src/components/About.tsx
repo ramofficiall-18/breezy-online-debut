@@ -33,7 +33,7 @@ const About = () => {
             About Me
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-            I recently completed my Bachelor's degree in Computer Science and Engineering from Krishnaswamy College of Engineering and Technology, Cuddalore. I aim to acquire expertise as a front-end developer and I want to join a career in the IT field Jobs. To enhance my skills, I underwent inplant training at the Telephone Exchange, Cuddalore. Furthermore, I presented a research paper titled "Defensive Strategy Against Ransomware Threats" at the 5th International Conference on Veracity Research in Scientific Computing and Engineering Trends, organized by VRS College of Engineering and Technology, Arasur. Notably, our team's project proposal was selected and funded under the Tamil Nadu State Council for Science and Technology's Student Project Scheme (2023-2024) at DOTE Campus, Chennai.
+            Hi, I'm Ramkumar.S, a passionate and detail-oriented Computer Science and Engineering graduate with a strong foundation in technical skills and a keen interest in front-end development and IT support. My Journey. With a recent completion of my Bachelor's degree from Krishnaswamy College of Engineering and Technology, Cuddalore, I've been actively pursuing opportunities to enhance my skills and knowledge in the field of computer science. My experience as a Junior Presentation Specialist at MyBusiness Visual Company has equipped me with effective communication and collaboration skills. I'm excited to explore new opportunities and collaborate with like-minded individuals. Feel free to reach out to me through my contact information below.
           </p>
         </div>
 
