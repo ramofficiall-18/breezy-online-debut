@@ -18,7 +18,10 @@ const About = () => {
               <p>I've been actively pursuing opportunities to enhance my skills and knowledge in the field of computer science.</p>
               <p>
             </p>
-              <p>I complete my Bachelor's degree in Krishnasamy College of Engineering and Technology, Cuddalore At the year of 2024.</p>
+              <p>I complete my Bachelor's degree in Krishnasamy College of Engineering and Technology, Cuddalore At the year of 2024.
+
+
+My experience as a Junior Presentation Specialist at MyBusiness Visual Company has equipped me with effective communication and collaboration skills.</p>
             </div>
           </div>
 
@@ -27,15 +30,15 @@ const About = () => {
               <h3 className="text-2xl font-bold mb-6">Quick Stats</h3>
               <div className="grid grid-cols-2 gap-6">
                 <div className="text-center">
-                  <div className="text-3xl font-bold gradient-text mb-2">50+</div>
+                  <div className="text-3xl font-bold gradient-text mb-2">3</div>
                   <div className="text-sm text-muted-foreground">Projects Completed</div>
                 </div>
                 <div className="text-center">
-                  <div className="text-3xl font-bold gradient-text mb-2">3+</div>
-                  <div className="text-sm text-muted-foreground">Years Experience</div>
+                  <div className="text-3xl font-bold gradient-text mb-2">4</div>
+                  <div className="text-sm text-muted-foreground">Months Experience</div>
                 </div>
                 <div className="text-center">
-                  <div className="text-3xl font-bold gradient-text mb-2">15+</div>
+                  <div className="text-3xl font-bold gradient-text mb-2">7+</div>
                   <div className="text-sm text-muted-foreground">Technologies</div>
                 </div>
                 <div className="text-center">
