@@ -1,8 +1,6 @@
 import { Card } from "@/components/ui/card";
-
 const About = () => {
-  return (
-    <section id="about" className="py-20 px-6">
+  return <section id="about" className="py-20 px-6">
       <div className="max-w-6xl mx-auto">
         <div className="text-center mb-16 animate-fade-in">
           <h2 className="text-4xl md:text-5xl font-bold mb-6 gradient-text">
@@ -17,10 +15,7 @@ const About = () => {
           <div className="animate-slide-in-left">
             <h3 className="text-2xl font-bold mb-6">My Journey</h3>
             <div className="space-y-4 text-muted-foreground">
-              <p>
-                Started my development journey with a curiosity for how websites work, 
-                and quickly fell in love with the endless possibilities of web development.
-              </p>
+              <p>I complete my Bachelor's degree in Krishnasamy College of Engineering and Technology, Cuddalore At the year of 2024.</p>
               <p>
                 Over the years, I've worked with various technologies and frameworks, 
                 always staying current with industry trends and best practices.
@@ -57,8 +52,6 @@ const About = () => {
           </div>
         </div>
       </div>
-    </section>
-  );
+    </section>;
 };
-
 export default About;
