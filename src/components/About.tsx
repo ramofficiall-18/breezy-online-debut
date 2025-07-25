@@ -16,9 +16,8 @@ const About = () => {
             <h3 className="text-2xl font-bold mb-6">My Journey</h3>
             <div className="space-y-4 text-muted-foreground">
               <p>I've been actively pursuing opportunities to enhance my skills and knowledge in the field of computer science.</p>
-              <p>
-            </p>
-              <p>I complete my Bachelor's degree in Krishnasamy College of Engineering and Technology, Cuddalore At the year of 2024.  </p>
+              <p>I complete my Bachelor's degree in Krishnasamy College of Engineering and Technology, Cuddalore At the year of 2024.</p>
+              <p>Currently, I'm focused on expanding my expertise in modern web technologies and seeking opportunities to contribute to innovative projects that make a real impact.</p>
             </div>
           </div>
 
