@@ -17,7 +17,7 @@ const About = () => {
             <div className="space-y-4 text-muted-foreground">
               <p>I've been actively pursuing opportunities to enhance my skills and knowledge in the field of computer science.</p>
               <p>I complete my Bachelor's degree in Krishnasamy College of Engineering and Technology, Cuddalore At the year of 2024.</p>
-              <p>Currently, I'm focused on expanding my expertise in modern web technologies and seeking opportunities to contribute to innovative projects that make a real impact.</p>
+              <p>My experience as a Junior Presentation Specialist at MyBusiness Visual Company has equipped me with effective communication and collaboration skills.</p>
             </div>
           </div>
 
