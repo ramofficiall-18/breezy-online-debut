@@ -38,7 +38,7 @@ const About = () => {
                   <div className="text-sm text-muted-foreground">Technologies</div>
                 </div>
                 <div className="text-center">
-                  <div className="text-3xl font-bold gradient-text mb-2">100%</div>
+                  <div className="text-3xl font-bold gradient-text mb-2">3</div>
                   <div className="text-sm text-muted-foreground">Client Satisfaction</div>
                 </div>
               </div>
