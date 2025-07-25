@@ -60,20 +60,6 @@ const Skills = () => {
           {/* Tools & Technologies */}
           <div className="animate-slide-in-right">
             <h3 className="text-2xl font-bold mb-8">Tools & Technologies</h3>
-            <div className="flex flex-wrap gap-3 mb-8">
-              {tools.map((tool, index) => (
-                <Badge 
-                  key={tool}
-                  variant="secondary"
-                  className="px-3 py-1 bg-primary/10 hover:bg-primary/20 transition-colors hover-scale"
-                  style={{
-                    animationDelay: `${index * 0.05}s`
-                  }}
-                >
-                  {tool}
-                </Badge>
-              ))}
-            </div>
 
             <h3 className="text-2xl font-bold mb-8">Soft Skills</h3>
             <div className="flex flex-wrap gap-3">
