@@ -60,6 +60,11 @@ const Skills = () => {
           {/* Tools & Technologies */}
           <div className="animate-slide-in-right">
             <h3 className="text-2xl font-bold mb-8">Tools & Technologies</h3>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
 
             <h3 className="text-2xl font-bold mb-8">Soft Skills</h3>
             <div className="flex flex-wrap gap-3">
