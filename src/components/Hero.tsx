@@ -18,7 +18,7 @@ const Hero = () => {
       <div className="absolute inset-0 hero-gradient opacity-80" />
       
       {/* Content */}
-      <div className="relative z-10 text-center px-6 max-w-4xl mx-auto bg-slate-100">
+      <div className="relative z-10 text-center px-6 max-w-4xl mx-auto">
         <div className="animate-fade-in">
           <h1 className="text-5xl mb-6 gradient-text text-shadow font-extrabold text-slate-950 text-center md:text-7xl mx-0 py-0">Hello, I'm Ramkumar  Frontend Developer</h1>
           <p className="text-xl md:text-2xl text-muted-foreground mb-8 max-w-2xl mx-auto leading-relaxed">
