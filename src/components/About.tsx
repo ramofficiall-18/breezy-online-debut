@@ -21,7 +21,7 @@ const About = () => {
               <p>I complete my Bachelor's degree in Krishnasamy College of Engineering and Technology, Cuddalore At the year of 2024.
 
 
-My experience as a Junior Presentation Specialist at MyBusiness Visual Company has equipped me with effective communication and collaboration skills.</p>
+ My experience as a Junior Presentation Specialist at MyBusiness Visual Company has equipped me with effective communication and collaboration skills.</p>
             </div>
           </div>
 
